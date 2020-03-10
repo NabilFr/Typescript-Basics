@@ -130,6 +130,7 @@ new google.maps.Map(document.getElementById('map'), {
     lng: 0
   }
 });
+console.log(document.getElementById('map'));
 },{}],"../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
